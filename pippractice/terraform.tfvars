@@ -6,4 +6,7 @@ rg_var = {
   rg2 = {
     location = "westeurope"
   }
+  rg3 = {
+    location = "westeurope"
+  }  
 }
